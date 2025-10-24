@@ -1,6 +1,6 @@
 # Data Collective
 
-### UPDATE 2025-10-24: Data Collective is now the DataHub Collective and [main reposistory has moved here](https://github.com/datasets/collective)
+### UPDATE Oct '25: Data Collective is now the DataHub Collective and [main reposistory has moved here](https://github.com/datasets/collective)
 
 The DataHub Collective is, in the broadest sense, a home for people who care about maintaining, publishing, and curating high-quality open datasets -- and developing and discussing the tools that support this.
 
