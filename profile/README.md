@@ -1,11 +1,9 @@
-# Democratising the Power of Data
+# Data Collective
 
-We are a collective passionate about data. Passionate about its power to help us understand and shape our societies. And we want to democratise that power by giving more people, more access to high quality data and data tooling.
+**UPDATE 2025-10-24** Data Collective has become the DataHub Collective and moved to https://github.com/datasets/collective.
 
-Everyone who has worked with data as much as we have, knows it takes far too many hours of tedious searching and wrangling before you have the data you need in the form you need it.
+The DataHub Collective is, in the broadest sense, a home for people who care about maintaining, publishing, and curating high-quality open datasets -- and developing and discussing the tools that support this.
 
-We want to change that – both for ourselves and everyone else.
+More specifically, it’s a community of people maintaining the DataHub Commons of shared datasets, publishing material on DataHub.io, and contributing to the tooling around it.
 
-The Data Collective is a home for people  who are passionate about data. A place to discover and share high quality datasets, to create tools and to connect with others and to share knowledge.
-
-Ultimately, we want to revolutionize how we work with data as a community. How we collaborate to find, create and curate datasets. We want to make it faster, easier and more reliable to use and share high quality data and data-driven insight.
+One way to think of it as a more open, collective, and DataHub–oriented version of Our World in Data — a collaborative ecosystem for open data publishing and infrastructure.
